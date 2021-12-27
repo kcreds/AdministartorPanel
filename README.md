@@ -11,5 +11,7 @@ Project is created with:
 * JS,JQUERY
 * PHP,MYSQL
 
-##<b>Screenshots:camera:<b>
+## Screenshots:camera:
 ![1](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/1.PNG?raw=true)
+![2](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/2.PNG?raw=true)
+![3](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/3.PNG?raw=true)

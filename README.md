@@ -12,7 +12,10 @@ Project is created with:
 * PHP,MYSQL
 
 ## Screenshots:camera:
+<p align="center"> 
 ![1](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/1.PNG?raw=true)
 ![2](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/2.PNG?raw=true)
 ![3](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/3.PNG?raw=true)
-<center> ![4](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/4.PNG?raw=true) </center>
+![4](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/4.PNG?raw=true)
+ 
+ </p>

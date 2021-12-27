@@ -1,6 +1,6 @@
 # AdministartorPanel
-<p>This is a simple database management panel 
-is not finished yet</p>
+<p>This is a simple database management panel </p>
+ Project is not finished yet
 
 Login: admin
 Password: admin

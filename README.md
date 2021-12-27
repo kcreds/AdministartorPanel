@@ -1,4 +1,4 @@
-# AdministartorPanel
+# Administartor Panel
 <p>This is a simple database management panel </p>
  Project is not finished yet
 <br><br>
@@ -10,3 +10,5 @@ Project is created with:
 * HTML,CSS
 * JS,JQUERY
 * PHP,MYSQL
+
+!

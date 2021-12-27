@@ -20,5 +20,4 @@ Project is created with:
 
 ![3](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/3.PNG?raw=true)
 
-![4](https://github.com/kcreds/AdministartorPanel/blob/main/Screen/4.PNG?raw=true)
  

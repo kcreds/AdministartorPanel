@@ -2,7 +2,7 @@
 <p>This is a simple database management panel </p>
  Project is not finished yet
 
-Login: admin
+Login: admin<br>
 Password: admin
 
 ## Technologies

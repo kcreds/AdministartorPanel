@@ -7,9 +7,9 @@ Password: admin
 
 ## Technologies
 Project is created with:
-* HTML,CSS
-* JS,JQUERY
-* PHP,MYSQL
+* HTML, CSS
+* JS, JQUERY
+* PHP, MYSQL
 
 ## Screenshots:camera:
 
